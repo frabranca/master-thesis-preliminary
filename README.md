@@ -1,7 +1,7 @@
 # Master Thesis: Optical Flow Determination using Integrate & Fire Neurons
 **Project Task:** investigating on using the SynSense's [speck2e](https://www.synsense.ai/products/speck-2/) neuromorphic device for optical flow determination.
 ## Details
-This repository contains the preliminary experiments of my master thesis project, specifically, the testing of the speck2e. To get familiar with Samna and Sinabs (libraries developed by SynSense), the speck is tested on the Neuromorphic MNIST dataset (N-MNIST). Other scripts are included to analyse the undergoing processes inside the device. For instance:
+This repository contains the preliminary experiments of my master thesis project, specifically, the testing of the speck2e. You can see more details about the full project [here](https://repository.tudelft.nl/record/uuid:b4f643b2-a64f-4fb4-a18f-5012364f7b0f). To get familiar with Samna and Sinabs (libraries developed by SynSense), the speck is tested on the Neuromorphic MNIST dataset (N-MNIST). Other scripts are included to analyse the undergoing processes inside the device. For instance:
 
 - read the membrane potential of the neurons and its decay (``speck_membrane_potential.py``, ``speck_bias_test.py``);
 - visualize the output of the event-based camera (``event_based_video_tools/visualizer.py``);
