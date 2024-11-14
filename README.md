@@ -1,4 +1,4 @@
-# Master Thesis Project: Optical Flow Determination using Integrate & Fire Neurons
+# Master Thesis: Optical Flow Determination using Integrate & Fire Neurons
 
 **Project Details**: investigating on using the SynSense's [speck2e](https://www.synsense.ai/products/speck-2/) neuromorphic device for optical flow determination.
 
